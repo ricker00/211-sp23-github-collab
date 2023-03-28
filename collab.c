@@ -72,6 +72,12 @@ void jgongo2_pkoby2_kseki3() {
            "You can make multiple commmits before pushing to the repository.\n");
 }
 
+void syasi2_asyed61_nmuhs2() {
+  printf("Sarah Yasin, Abdul Syed and Noor Muhsen\n");
+  printf("We learned a lot of git commands that will be useful if we learn Git in the future.\n");
+}
+
+
 int main() {
   printf(
       "This code has been created by the students of CS 211, Spring 2023!\n\n");
